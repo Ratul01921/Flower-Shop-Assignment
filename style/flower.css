@@ -1,0 +1,53 @@
+body{
+  font-family: loto;
+}
+.header{
+  background: rgba(229, 84, 115, 0.10);
+
+}
+.banner{
+  display: flex;
+  padding: 0px 100px ;
+  height: 100vh;
+  align-items: center;
+  justify-content: space-around;
+  border: #E55473 solid;
+
+}
+.nav-title{
+  color: #272727;
+  font-size: 70px;
+  font-weight: 100px;
+  gap: 0px;
+  
+}
+.btn-primary{
+  border-radius: 8px;
+  background: #E55473;
+  padding: 20px 43px;
+  gap: 10px;
+
+}
+
+.images{
+
+  width: 500px;
+ 
+} 
+.deal{
+  display: flex;
+  border-radius: 8px;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+.nav2-title{
+  color: #272727;
+font-size: 40px;
+font-weight: 800;
+}
+.images2{
+  width: 318px;
+  height: 420px;
+  flex-shrink: 0;
+}
